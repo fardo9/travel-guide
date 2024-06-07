@@ -48,6 +48,9 @@ const config: Config = {
         '5xl': '40px',
       },
     },
+    // screens: {
+      
+    // }
   },
   plugins: [],
 };

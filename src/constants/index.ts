@@ -70,7 +70,7 @@ export const NAV_LINKS: INavLink[] = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Climbing', 'Hiking hilink', 'Hilink kinthill'],
     },
   ];
   

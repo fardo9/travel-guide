@@ -1,5 +1,5 @@
 // import Image from "next/image";
-import Camp from '@/components/base/Camp';
+import Camp from '@/components/base/CampComponent/Camp';
 import Features from '@/components/base/Features';
 import GetApp from '@/components/base/GetApp';
 import Guide from '@/components/base/Guide';
